@@ -9,19 +9,19 @@
 }
 .loginbox{
     margin-top: 30%;
-    border-top: 6px solid #0088D8;
+    border-top: 8px solid #551A8B;
     background-color:#fff;
     padding: 20px;
     box-shadow: 0 10px 10px -2px rgba(0,0,0,0.12),0 -2px 10px -2px rgba(0,0,0,0.12);    
 }
 .singtext{    
     font-size: 28px;  
-    color: #0088D8;
+    color: #551A8B;
     font-weight: 500;
     letter-spacing: 1px;
 }
 .submitButton{
-    background-color: #0088D8;
+    background-color: #551A8B;
     color: #fff;
     margin-top: 12px;
     margin-bottom: 10px;
@@ -35,4 +35,18 @@
 .submitButton:hover,.submitButton:focus{
     color: #fff;  
     outline: none;
+}
+/*------------------ LOGIN -----------*/
+.erro_login{
+    background-color: #dc3545;
+    color: white;
+    width: 100%;
+    padding: 5px;
+    border-radius: 3px;
+    margin-top: 10px;
+}
+/*------------------- menu -----------*/
+.menu{
+    background-color: #551A8B;
+    height: 50px;
 }
