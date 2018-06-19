@@ -14,7 +14,7 @@ Primeira página a ser exibida onde mantem o controle de acessos ao determinado 
 
 ![pege_login_erro](https://user-images.githubusercontent.com/40076527/41624364-d877e6ac-73eb-11e8-8812-0005bfdda1b8.PNG)
 
-#### Responsivo normal e com erro
+### Responsivo normal e com erro
 
 ![page_2_em1](https://user-images.githubusercontent.com/40076527/41625489-5deb212a-73ef-11e8-9522-5e16dc1b22a1.png)
 
@@ -30,11 +30,15 @@ Primeira página a ser exibida onde mantem o controle de acessos ao determinado 
 ### Dia 14/06/18 até o dia 16/06/18 
 Nesses dias fiz...
 >Estudo de front-end;
+#####
 >Referências;
+#####
 >Ínicio da programação front.
 
 ### Dia 17/06/18 até 18/06/18
 Nesses dias fiz...
 >Termino da programação front-end;
+#####
 >ínicio da Back-end em PHP;
+#####
 >Criação do Bando de Dados em Mysql.
