@@ -30,13 +30,13 @@ Primeira página a ser exibida onde mantem o controle de acessos ao determinado 
 ### Dia 14/06/18 até o dia 16/06/18 
 Nesses dias fiz...
 
-.Estudo de front-end;
-.Referências;
-.Ínicio da programação front.
+##### Estudo de front-end;
+##### Referências;
+##### Ínicio da programação front.
 
 ### Dia 17/06/18 até 18/06/18
 Nesses dias fiz...
 
-. Termino da programação front-end;
-. ínicio da Back-end em PHP;
-. Criação do Bando de Dados em Mysql.
+##### Termino da programação front-end;
+##### ínicio da Back-end em PHP;
+>Criação do Bando de Dados em Mysql.
